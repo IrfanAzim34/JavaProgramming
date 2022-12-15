@@ -1,5 +1,7 @@
 package day38_Inheritance;
 
+import day38_Inheritance.warmUp.Car;
+
 public class Tesla extends Car {
 
     public Tesla(String model, int year, double price, String color, double miles) {
