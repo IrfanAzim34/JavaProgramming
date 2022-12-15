@@ -1,4 +1,4 @@
-package day24_CustomMethods_Retun;
+package day24_CustomMethods_Return;
 
 public class MinNumberOfArray {
 
