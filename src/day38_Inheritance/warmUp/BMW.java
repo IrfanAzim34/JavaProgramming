@@ -6,6 +6,11 @@ public class BMW extends Car{
         super("BMW", model, year, price, color, miles);
     }
 
+    @Override
+    public void start() {
+        System.out.println("Say \"start\" to start " + brand + " " + model);
+    }
+
     public void breakdown(){
         System.out.println(brand + " " + model + " is breaking down");
     }
