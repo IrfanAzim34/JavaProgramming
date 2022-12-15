@@ -1,4 +1,6 @@
-package day38_Inheritance;
+package day38_Inheritance.warmUp;
+
+import day38_Inheritance.Car;
 
 public class BMW extends Car {
 
