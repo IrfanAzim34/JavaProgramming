@@ -1,4 +1,4 @@
-package day38_Inheritance.warmUp;
+package day38_Inheritance;
 
 import day38_Inheritance.warmUp.Car;
 
