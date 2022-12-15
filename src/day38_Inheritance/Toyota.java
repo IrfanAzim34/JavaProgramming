@@ -1,6 +1,4 @@
-package day38_Inheritance.warmUp;
-
-import day38_Inheritance.warmUp.Car;
+package day38_Inheritance;
 
 public class Toyota extends Car {
 
