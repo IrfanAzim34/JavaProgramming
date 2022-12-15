@@ -1,4 +1,4 @@
-package day38_Inheritance;
+package day38_Inheritance.warmUp;
 
 public class Car {
 
