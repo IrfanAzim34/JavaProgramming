@@ -85,11 +85,11 @@ public class Device {
 
     public String toString() {
         return "Device{" +
-                "brand='" + getBrand() + '\'' +
-                ", model='" + getModel() + '\'' +
-                ", price=$" + getPrice() +
-                ", hasBattery=" + getIsHasBattery() +
-                ", hasPowerButton=" + getIsHasPowerButton() +
+                "brand='" + brand + '\'' +
+                ", model='" + model + '\'' +
+                ", price=$" + price +
+                ", hasBattery=" + hasBattery +
+                ", hasPowerButton=" + hasPowerButton +
                 '}';
     }
 }

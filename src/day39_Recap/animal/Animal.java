@@ -113,12 +113,12 @@ public class Animal {
 
     public String toString() {
         return "Animal{" +
-                "name='" + getName() + '\'' +
-                ", breed='" + getBreed() + '\'' +
-                ", gender=" + getGender() +
-                ", age=" + getAge() +
-                ", size='" + getSize() + '\'' +
-                ", color='" + getColor() + '\'' +
+                "name='" +  name + '\'' +
+                ", breed='" + breed + '\'' +
+                ", gender=" + gender +
+                ", age=" + age +
+                ", size='" + size + '\'' +
+                ", color='" + color + '\'' +
                 '}';
     }
 }
