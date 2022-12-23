@@ -11,6 +11,7 @@ public class Zoo {
 
         dog.drink();
         dog.bark();
+        dog.eat();
 
 
 
