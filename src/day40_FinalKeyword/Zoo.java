@@ -10,6 +10,7 @@ public class Zoo {
         System.out.println(dog.getGender());
 
         dog.drink();
+        dog.bark();
 
 
 
