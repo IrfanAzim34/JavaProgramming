@@ -1,3 +1,4 @@
+import java.text.DecimalFormat;
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -8,7 +9,7 @@ public class ZombieAttack2 {
         int[] inhabitants = {input.nextInt(), input.nextInt(), input.nextInt(), input.nextInt(), input.nextInt(),
                                 input.nextInt(), input.nextInt(), input.nextInt()};
 
-        //TODO. Write you code below this line.
+
 
         int[] current = new int[inhabitants.length];
         int[] empty = new int[inhabitants.length];
