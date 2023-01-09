@@ -31,11 +31,9 @@ public class Employees {
 
         List<Employee> scrumMembers = new ArrayList<>();
         for (Employee employee : employees) {
-            if (employee instanceof Developer){
+            if (employee instanceof Developer || employee instanceof Tester)
                 scrumMembers.add(employee);
-            } else if (employee instanceof Tester) {
-                scrumMembers.add(employee);
-            }
+
         }
 
         List<Tester> testers = new ArrayList<>();
